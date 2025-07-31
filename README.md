@@ -29,4 +29,5 @@ PRIVATE_KEY=123cde574ccff....
 
 -   [Website](https://getclave.io/)
 -   [GitHub](https://github.com/getclave)
--   [Twitter](https://twitter.com/getclave)
+-   [X/Twitter](https://x.com/getclave)
+-   [Blog](https://blog.getclave.com/)
